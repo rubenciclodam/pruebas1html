@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Este es el título
+        </title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Título 1</h1>
+       <table>
+        <tr>
+            <th>Encabezado 1</th>
+            <th>Encabezado 2</th>
+            <th>Encabezado 3</th>
+        </tr>
+        <tr>
+            <td>Contenido 1</td>
+            <td>Contenido 2</td>
+            <td>Contenido 3</td>
+        </tr>
+        <tr>
+            <td>Contenido 4</td>
+            <td>Contenido 5</td>
+            <td>Contenido 6</td>
+        </tr>
+        
+       </table>
+    </body>
+</html>
